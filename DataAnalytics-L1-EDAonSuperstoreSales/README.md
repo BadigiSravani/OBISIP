@@ -17,7 +17,6 @@ To perform Exploratory Data Analysis (EDA) on the Superstore Sales Dataset and u
 ## 🔍 Analysis Performed
 - 🧹 Data Cleaning
 - 💰 Sales Analysis
-- 📉 Profit Analysis
 - 🏷️ Category-wise Analysis
 - 🌍 Regional Analysis
 - 📊 Data Visualization
