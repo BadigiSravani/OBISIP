@@ -23,14 +23,16 @@ To perform Exploratory Data Analysis (EDA) on the Superstore Sales Dataset and u
 
 ## 💡 Key Insights
 - 📌 Identified top-performing categories.
-- 📈 Analyzed sales and profit trends.
+- 📈 Analyzed sales trends.
 - 🌎 Compared regional performance.
 - 📊 Visualized important business metrics using charts.
 
 ## 📂 Files Included
-- 📓 EDA_on_Superstore_Sales_Dataset.ipynb
+- 📓
+  EDA_on_Superstore_Sales_Dataset.ipynb
 - 📄 Superstore_Sales_Dataset.csv
-- 🖼️ Project Visualizations
+- 📍 Project report
+- 📖 project Explanation Video 
 
 ## ✅ Conclusion
 This project helped in understanding sales patterns, profitability trends, and data visualization techniques using Python.
